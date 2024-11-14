@@ -11,4 +11,4 @@ import streamlit as st
 # Título de la aplicación
 st.title('Mi Primera Aplicación Web con Streamlit')
 # Texto simple
-st.write('Esta es una aplicación web de ejemplo utilizando Streamlit.'
+st.write('Esta es una aplicación web de ejemplo utilizando Streamlit.')
